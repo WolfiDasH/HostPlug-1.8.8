@@ -1,0 +1,13 @@
+name: HostPlug
+version: 1.0
+author: WolfiDasH
+main: com.wolfidash.hostplug.HostPlug
+commands:
+  bvn:
+    description: broadcast bienvenue au nouveau joueurs
+  broadcast:
+    description: broadcast
+    permission: broadcast.use
+  warn:
+    description: warn une personne
+    permission: warn.use
